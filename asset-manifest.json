@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/to-do-planner/static/css/main.58c887d5.css",
+    "main.js": "/to-do-planner/static/js/main.a2e513f4.js",
+    "index.html": "/to-do-planner/index.html",
+    "main.58c887d5.css.map": "/to-do-planner/static/css/main.58c887d5.css.map",
+    "main.a2e513f4.js.map": "/to-do-planner/static/js/main.a2e513f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58c887d5.css",
+    "static/js/main.a2e513f4.js"
+  ]
+}
